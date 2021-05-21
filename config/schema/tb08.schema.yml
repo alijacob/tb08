@@ -1,0 +1,7 @@
+block.settings.example_configurable_text:
+  type: block_settings
+  label: 'Example configurable text block configuration'
+  mapping:
+    tb08_string:
+      type: text
+      label: 'Block contents'
