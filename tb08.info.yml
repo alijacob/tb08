@@ -1,0 +1,5 @@
+name: tb08
+type: module
+description: Demonstrates how a module can define blocks.
+package: Website Module
+core_version_requirement: ^9

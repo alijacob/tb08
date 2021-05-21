@@ -1,0 +1,7 @@
+tb08.description:
+  path: '/examples/tb08'
+  defaults:
+    _controller: '\Drupal\tb08\Controller\tb08Controller::description'
+    _title: 'Block Example'
+  requirements:
+    _permission: 'access content'
